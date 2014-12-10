@@ -1,0 +1,19 @@
+@media only screen and (max-width: 767px) {
+  div.image,
+  div.sign {
+    float: none;
+  }
+  div.sign {
+    text-align: center;
+    margin-top: 10px;
+  }
+  div.row {
+    margin-left: 50px 
+  }
+  div.container .four.columns {
+    margin-left: -20px;
+  }
+  div.mac-image img {
+    height: 200px;
+  }
+}

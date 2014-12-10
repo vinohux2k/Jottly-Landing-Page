@@ -1,0 +1,110 @@
+body {
+    background-color: #3399FF;
+    color: #fff;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: Microsoft Himalaya;
+  color: #fff;
+  /* margin-left: 350px */ 
+}
+h2 {
+  font-size: 40px;
+  font-family: Microsoft Himalaya;
+  color: #fff;
+  clear: both;
+}
+h3 {
+  font-size: 30px;
+  font-family: Microsoft Himalaya;
+  color: #fff; 
+}
+p {
+  font-size: 24px;
+  font-family: Myriad Pro;
+  color: #fff;
+}
+menu {
+  font-size: 30px;
+  color: #fff;
+  font-family: Myriad Pro;
+}
+button {
+  font-size: 30px;
+  border-radius: 8px;
+  background-color: #009ae8;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+ul li {
+  display: inline;
+}
+button {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(27, 117, 188);
+  width: 100px;
+  height: 29px;
+  margin-left: -60px
+}
+blockquote {
+  border: none;
+}
+div.mac-image img {
+  height: 400px;
+}
+footer {
+  font-size: 20px;
+  color: #fff;
+}
+div.container {
+  margin-top: 10px;
+  text-align: center;
+}
+div.image {
+  float: left;
+}
+div.image img {
+  height: 50px;
+  width: 150px;
+}
+div.sign {
+  float: right;
+}
+div.description {
+  clear: both;
+}
+div.row {
+  margin-left: 300px 
+}
+div.container .four.columns {
+  margin-left: -80px
+}
+div.mac-image,
+div.testimony {
+  clear: both;
+}
+h2.users {
+  margin-top: 450px;
+}
+
+div.sign nav ul li a ,
+div.footer nav ul li a {
+  color:#fff;
+  text-decoration:none;
+  text-transform: uppercase;
+  margin:0 1em 0 0;
+  font-size:1.1em;
+  text-align: right;
+}
+div.sign,
+div.footer {
+  text-align: right;
+}
+
+
+ 
